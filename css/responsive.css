@@ -1,0 +1,293 @@
+
+@media only screen and (min-width: 800px){
+	/* .topslider_text */
+	.title{
+	width: 65.333%;
+	margin-top: -1079px;
+	margin-left: -56px;
+	}
+
+    .title h1{
+       width: 65.333%;
+       margin-left: 11px;
+    }
+    .title p{
+    	 margin-left: 64px;
+    }
+
+
+}
+
+@media only screen and (min-width: 940px){
+	/* .topslider_text */
+.title{
+	width: 65.333%;
+    margin-top: -1016px;
+    margin-left: 14px;
+	}
+
+    .title h1{
+       width: 65.333%;
+       margin-left: 11px;
+    }
+    .title p{
+    	 margin-left: 64px;
+    }
+
+
+}
+
+@media only screen and (min-width: 992px){
+
+	.title{
+	width: 65.333%;
+	margin-top: -1079px;
+	margin-left: -56px;
+	}
+
+    .title h1{
+       width: 65.333%;
+       margin-left: 54px;
+    }
+    .title p{
+    	 margin-left: 64px;
+    }
+
+
+}
+
+
+@media only screen and (min-width: 1170px){
+
+.title{
+		width: 65.333%;
+		margin-top: -970px;
+		margin-left: -56px;
+	}
+
+    .title h1{
+       width: 65.333%;
+       margin-left: 92px;
+    }
+    .title p{
+    	 margin-left: 154px;
+    }
+
+}
+
+
+@media only screen and (min-width: 1280px){
+
+	/* -- diagrams -- */
+
+	.title{
+		width: 65.333%;
+		margin-top: -970px;
+		margin-left: -56px;
+	}
+
+    .title h1{
+       width: 65.333%;
+       margin-left: 92px;
+    }
+    .title p{
+    	 margin-left: 154px;
+    }
+
+}
+
+
+
+
+
+
+---------------------------- TopSlider -------------------------------- */
+
+@media only screen and (min-width:961px) and (max-width:1024px){
+	.title {
+	width: 51.333%;
+	margin-left: -41px;
+	margin-top: -968px;
+	} 
+	.title p{
+	width: 65.333%;
+	margin-left: 135px;
+	}
+	.title h1 {
+	width: 71.333%;
+	margin-left: 122px;
+	
+	}
+	
+}
+
+
+
+
+
+@media only screen and (min-width:1280px) and (max-width:1680px){
+	.title {
+	width: 51.333%;
+	margin-left: -18px;
+	margin-top: -966px;
+	} 
+	.title p{
+	width: 65.333%;
+	}
+	.title h1 {
+	width: 71.333%;
+	margin-left: 136px;
+	
+	}
+	
+}
+
+/*-----------------------------------------------------------------*/
+/*------------------------- 1171px - 1280px -----------------------*/
+/*-----------------------------------------------------------------*/
+@media only screen and (min-width:1170px) and (max-width:1279px){
+	.title {
+	width: 51.333%;
+	margin-left: -10px;
+	margin-top: -905px;
+	} 
+	.title p{
+	width: 65.333%;
+    margin-left: 83px;
+	}
+	
+}/* --- / 1171px - 1280px  --- */
+
+
+/*-----------------------------------------------------------------*/
+/*------------------------- 993px - 1170px ------------------------*/
+/*-----------------------------------------------------------------*/
+@media only screen and (min-width:992px) and (max-width:1169px){
+	.title {
+	 width: 51.333%;
+	margin-left: 31px;
+	margin-top: -975px;
+	} 
+	.title p{
+		width: 65.333%;
+	}
+
+}/* --- / 993px - 1170px  --- */
+
+
+/* --------------------------------------------------------------*/
+/* --------------------------------------------------------------*/
+/* --------------------------------------------------------------*/
+@media only screen and (min-width:768px) and (max-width:939px){
+	.foo5 > div{
+		min-width: 233px;
+	}
+}
+/*-----------------------------------------------------------------*/
+/*------------------------- 769px - 992px -------------------------*/
+/*-----------------------------------------------------------------*/
+@media only screen and (min-width:768px) and (max-width:991px){
+	.title {
+	 width: 51.333%;
+	margin-left: 31px;
+	margin-top: -969px;
+	}
+	.title h1{
+		margin-left: 51px;
+	} 
+	.title p{
+		width: 65.333%;
+	}
+
+}
+
+
+ 
+
+
+
+/*-----------------------------------------------------------------*/
+/*------------------------- 481px - 768px -------------------------*/
+/*-----------------------------------------------------------------*/
+@media only screen and (min-width:480px) and (max-width:767px){
+	
+
+
+
+
+}/* --- and 481px - 768px --- */
+
+
+
+/*-----------------------------------------------------------------*/
+/*------------------------- 321px - 480px -------------------------*/
+/*-----------------------------------------------------------------*/
+@media only screen and (min-width:321px) and (max-width:479px){
+
+
+ }/* --- and 321px - 480px --- */
+
+
+
+
+ /*-----------------------------------------------------------------*/
+/*----------------------------- 320px ------------------------------*/
+/*------------------------------------------------------------------*/
+@media only screen and (max-width:320px){
+	
+
+ }/* --- and 320 --- */
+
+
+
+
+
+@media (max-width: 767px) {
+	.carousel_box img{
+	width: 330px;
+	height: 280px;
+	margin-bottom:100%;
+	margin-top: 1px;
+	}
+	.title{
+	width: 77.333%;
+	margin-left: 59px;
+	margin-top: -838px;
+	}
+      .title p{
+      	width: 115%;
+	margin: 0px auto;
+	font-size: 14px;
+	margin-left: -27px;
+      }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+      }
+
+}
+
+@media (min-width: 992px) and (max-width: 939px) {
+	.text-left-md {
+	text-align: left;
+	}
+	.text-right-md {
+	text-align: right;
+	}
+	.text-center-md {
+	text-align: center;
+	}
+}
+
+@media (min-width: 940px) {
+	.text-left-lg {
+	text-align: left;
+	}
+	.text-right-lg {
+	text-align: right;
+	}
+	.text-center-lg {
+	text-align: center;
+	}
+}
